@@ -1,0 +1,9 @@
+4147	../ZMAD_lab/lab1/rozwiazanie/test
+219737	../ZMAD_lab/lab1/rozwiazanie
+4904	../ZMAD_lab/lab1/zadanie
+228737	../ZMAD_lab/lab1
+5075	../ZMAD_lab/lab2
+81606	../ZMAD_lab/lab4
+85802	../ZMAD_lab/lab6
+93017	../ZMAD_lab/lab5
+498347	../ZMAD_lab/

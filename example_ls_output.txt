@@ -1,0 +1,8 @@
+total 24
+-rw-r--r-- 1 0kozick stud2010    0 kwi 16 00:55 file
+-rw-r--r-- 1 0kozick stud2010   14 kwi 16 00:55 file2
+drwxr-xr-x 4 0kozick stud2010 4096 mar 12 16:09 lab1
+drwxr-xr-x 2 0kozick stud2010 4096 kwi  1 18:12 lab2
+drwxr-xr-x 2 0kozick stud2010 4096 kwi  1 18:12 lab4
+drwxr-xr-x 2 0kozick stud2010 4096 kwi  8 18:08 lab5
+drwxr-xr-x 2 0kozick stud2010 4096 kwi 15 18:14 lab6

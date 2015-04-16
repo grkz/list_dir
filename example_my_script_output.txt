@@ -1,0 +1,8 @@
+lab1 (dir) 228737.0
+file 0
+lab2 (dir) 5075.0
+lab4 (dir) 81606.0
+lab6 (dir) 85802.0
+file2 14
+lab5 (dir) 93017.0
+The largest file/dir in '../ZMAD_lab/': lab1 size: 228737.0
