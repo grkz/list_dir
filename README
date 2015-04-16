@@ -1,0 +1,16 @@
+###############################################################################
+Entry project 2		Find the largest file in folder
+			Class:	Python in The Enterprise
+Author:			Grzegorz Kozicki
+###############################################################################
+
+Usage:
+
+python list_dir.py [dir_path]
+
+
+When no dir_path specified, lists content of the current directory.
+The script prints files in the dir_path with corresponding file sizes.
+
+If a file is a directory, gets recursively into each subdir calculating
+the total size of all files existing in subdirs.
